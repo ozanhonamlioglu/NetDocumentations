@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverDesignPattern", "ObserverDesignPattern\ObserverDesignPattern.csproj", "{683CDFB1-700A-426F-AA19-880C2C002CAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{83D21679-7A9A-45EB-B078-38C7619C839B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{683CDFB1-700A-426F-AA19-880C2C002CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{683CDFB1-700A-426F-AA19-880C2C002CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{683CDFB1-700A-426F-AA19-880C2C002CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{683CDFB1-700A-426F-AA19-880C2C002CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D21679-7A9A-45EB-B078-38C7619C839B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D21679-7A9A-45EB-B078-38C7619C839B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D21679-7A9A-45EB-B078-38C7619C839B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D21679-7A9A-45EB-B078-38C7619C839B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
